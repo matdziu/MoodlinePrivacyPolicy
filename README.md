@@ -25,7 +25,7 @@ We do not share your data with any third parties.
 We take reasonable measures to protect the data we collect. However, no method of transmission over the internet or electronic storage is completely secure.
 
 ## Your Rights
-You have the right to request access to the data we collect about you. To exercise this right, please contact us at [your email address].   
+You have the right to request access to the data we collect about you. To exercise this right, please contact us.   
 
 ## Changes to This Policy
 We may update this Privacy Policy from time to time. We will notify you of any significant changes.   
